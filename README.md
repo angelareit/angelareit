@@ -1,5 +1,5 @@
 # Hi there I'm Angela!
-#### I love making things and making it work well. I'm a full stack developer with a background in Game Development. 
+#### I love making things and making it work well. I'm a Full Stack Developer with a background in Game Development. 
 
 ## Skills
 ##### Languages
