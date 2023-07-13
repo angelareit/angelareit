@@ -41,7 +41,7 @@
   - My personal portfolio
   - GOAL [Bug Fixes, UI Improvements, Live Alerts]
 ### 🌱 I’m currently learning
-  - C# ASP.net
+  - Angular and ASP.net
   - Web Accessibility
  
 
