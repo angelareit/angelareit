@@ -39,6 +39,7 @@
 
 ### 🔭 I’m currently working on
   - My personal portfolio
+  - Trivia Game App
   - GOAL [Bug Fixes, UI Improvements, Live Alerts]
 ### 🌱 I’m currently learning
   - Angular and ASP.net
