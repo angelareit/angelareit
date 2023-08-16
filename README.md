@@ -43,6 +43,7 @@
   - GOAL [Bug Fixes, UI Improvements, Live Alerts]
 ### 🌱 I’m currently learning
   - Angular and ASP.net
+  - Ember
   - Web Accessibility
  
 
