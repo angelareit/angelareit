@@ -1,4 +1,4 @@
-# Hi there I'm Angela!
+# Hi there, I'm Angela!
 #### I love making things and making it work well. I'm a Full Stack Developer with a background in Game Development. 
 
 ## Skills
@@ -36,18 +36,19 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=Blender&logoColor=white)
 
 
-
-### 🔭 I’m currently working on
+<!-- 
+// ### 🔭 I’m currently working on
   - My personal portfolio
   - Trivia Game App
   - GOAL [Bug Fixes, UI Improvements, Live Alerts]
 ### 🌱 I’m currently learning
+  - 
   - Angular and ASP.net
   - Ember
   - Web Accessibility
  
 
-<!-- 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
